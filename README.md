@@ -36,6 +36,8 @@ To interpret Federal Bank’s financial position and trends in profitability, ef
 3. Review the structured sheets and analyze trends across years.
 
 ## ✅ Key Insights
+![Headshot_of_ratio1.jpg](Headshot_of_ratio1.jpg)
+![Headshot_of_ratio2.jpg](Headshot_of_ratio2.jpg)
 
 - Growth in **ROE** and **Net Interest Margin** indicates strong profitability.
 - Stable **Debt-to-Equity** and **Capital Adequacy** suggest sound risk management.
